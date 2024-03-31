@@ -1,4 +1,4 @@
-# README
+# PreciseTools
 
 ![](https://tahj-s.github.io/Precise-Tools-Pack/Precise%20Tools%20logo%20Transparent.png)
 
