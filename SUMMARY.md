@@ -2,8 +2,9 @@
 
 * [Home](README.md)
 
-## 🎯 PreciseTools
+## Our Products
 
-* [Introduction to PreciseTools](precisetools/readme.md)
-* [The Precise Tools App (made by Tahjae) 📱](precisetools/the-precise-tools-app-made-by-tahjae.md)
-* [Contact us 📞](precisetools/contact-us.md)
+* [🎯 PreciseTools](our-products/precisetools/README.md)
+  * [Introduction to PreciseTools](our-products/precisetools/readme.md)
+  * [The Precise Tools App (made by Tahjae) 📱](our-products/precisetools/the-precise-tools-app-made-by-tahjae.md)
+  * [Contact us 📞](our-products/precisetools/contact-us.md)
